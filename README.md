@@ -6,6 +6,8 @@ Includes:
   * De novo assembly using SPAdes
   * Reference-guided scaffolding using RagTag
   * Alignments for each gene sequence used in phylogenetic analysis: fas1_align.fasta; rpb1_align.fasta; rpb2_align.fasta; tef1_align.fasta; tub2_align.fasta
+  * Example *TRI13* sequences for two genotypes discussed in paper: Fsam264_tri13_deletion.fasta; Fsam321_tri13_intact.fasta
+  * 
 
 ### References:  
   **Cutadapt:** Martin, M. 2011. Cutadapt removes adapter sequences from high-throughput sequencing reads. EMBnet.journal 17:10–12. https://doi.org/10.14806/ej.17.1.200.  
